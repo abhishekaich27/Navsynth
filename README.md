@@ -1,7 +1,7 @@
 # Non-Adversarial Video Synthesis with Learned Priors
 
 ## Overview
-This package is a PyTorch implementation of the paper <a href="https://abhishekaich27.github.io/data/Papers/CVPR2020_Non_adverserial_video_generation.pdf">Non-Adversarial Video Synthesis</a> with Learned Priors](https://abhishekaich27.github.io/data/Papers/CVPR2020_Non_adverserial_video_generation.pdf) accepted at [CVPR 2020](http://cvpr2020.thecvf.com/). [Project page](https://abhishekaich27.github.io/data/Project_pages/CVPR_2020/navsynth.html)
+This package is a PyTorch implementation of the paper "Non-Adversarial Video Synthesis</a> with Learned Priors" accepted at [IEEE CVPR 2020](http://cvpr2020.thecvf.com/). [Project page](https://abhishekaich27.github.io/data/Project_pages/CVPR_2020/navsynth.html)
 
 ## Dependencies
 Create a conda environment with the 'environment.yml'
