@@ -20,7 +20,14 @@ python class_gen.py
 ## Citation
 Please cite the following work if you use this package.
 ```javascript
-To Be updated
+@misc{aich2020nonadversarial,
+    title={Non-Adversarial Video Synthesis with Learned Priors},
+    author={Abhishek Aich and Akash Gupta and Rameswar Panda and Rakib Hyder and M. Salman Asif and Amit K. Roy-Chowdhury},
+    year={2020},
+    eprint={2003.09565},
+    archivePrefix={arXiv},
+    primaryClass={eess.IV}
+}
 ```
 
 ## Contact 
