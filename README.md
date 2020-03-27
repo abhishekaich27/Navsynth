@@ -1,13 +1,13 @@
 # Non-Adversarial Video Synthesis with Learned Priors
 
 ## Overview
-This package is a PyTorch implementation of the paper "Non-Adversarial Video Synthesis</a> with Learned Priors" accepted at [IEEE CVPR 2020](http://cvpr2020.thecvf.com/).</br> [[Project page]](https://abhishekaich27.github.io/navsynth.html) [[Paper]](https://arxiv.org/abs/2003.09565)
+This package is a PyTorch implementation of the paper "Non-Adversarial Video Synthesis with Learned Priors" accepted at [IEEE CVPR 2020](http://cvpr2020.thecvf.com/).</br> [[Project page]](https://abhishekaich27.github.io/navsynth.html) [[Paper]](https://arxiv.org/abs/2003.09565)
 
 ## Dependencies
 Create a conda environment with the 'environment.yml'
 
 ## Data
-Please download the Chair-CAD dataset 'https://www.di.ens.fr/willow/research/seeing3Dchairs/data/rendered_chairs.tar'.
+Please download the [Chair-CAD](https://www.di.ens.fr/willow/research/seeing3Dchairs/data/rendered_chairs.tar) dataset.
 
 ## Running
 1. Create folders with names "fc_dir", "videos" and "mp4_files".
