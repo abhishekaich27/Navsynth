@@ -20,13 +20,13 @@ python class_gen.py
 ## Citation
 Please cite the following work if you use this package.
 ```javascript
-@misc{aich2020nonadversarial,
-    title={Non-Adversarial Video Synthesis with Learned Priors},
-    author={Abhishek Aich and Akash Gupta and Rameswar Panda and Rakib Hyder and M. Salman Asif and Amit K. Roy-Chowdhury},
-    year={2020},
-    eprint={2003.09565},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+@InProceedings{Aich_2020_CVPR,
+author = {Aich, Abhishek and Gupta, Akash and Panda, Rameswar and Hyder, Rakib and Asif, M. Salman and Roy-Chowdhury, Amit K.},
+title = {Non-Adversarial Video Synthesis With Learned Priors},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+pages = 6090--6099,
+month = {June},
+year = {2020}
 }
 ```
 
